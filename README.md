@@ -1,6 +1,6 @@
 # npm-lib-starter
 
-A starter project for creating NPN libraries.
+A starter project for creating NPN libraries for browser.
 
 ## Includes
 
